@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 8000,
+  "auto_open_browser": true,
+  "auto_restart_services": true,
+  "enable_logs": true,
+  "app_root": "C:\\Users\\Lenovo\\Desktop\\apppppps\\systems\\main_system",
+  "python_executable": "",
+  "node_executable": ""
+}
